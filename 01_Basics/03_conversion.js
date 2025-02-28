@@ -52,10 +52,13 @@ null => false
 undefined => false
 */
 
-// console.log(+true);  // result => 1
-// console.log(-true);  // result => -1
-// console.log(+false);  // result => 0
-// console.log(+"");  // result => 0
+
+// Conversion from Boolean to Number
+
+console.log(+true);  // result => 1
+console.log(-true);  // result => -1
+console.log(+false);  // result => 0
+console.log(+"");  // result => 0
 
 
 // Experiment on Object
